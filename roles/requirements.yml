@@ -1,0 +1,7 @@
+---
+roles:
+  - src: git@gitlabt.tristategt.org:ansible/roles/secret_server_role.git
+    scm: git
+    version: master
+    name: secret_server_role
+...
